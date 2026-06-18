@@ -18,6 +18,8 @@ Because a single goal makes up such a huge part of the final score, one lucky or
 
 ![Bohemians vs Dundalk Prediction](bohs_dundalk_prediction_2026.png)
 
+---
+
 ## Overcoming the Independence Limitation
 
 A baseline independent Poisson model struggles with low-scoring football matches because it assumes team scores are entirely independent. To fix this, a Dixon-Coles parameter ($\rho$) adjusts the lowest scorelines:
