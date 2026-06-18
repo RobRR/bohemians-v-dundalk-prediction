@@ -49,4 +49,4 @@ Because the Dixon-Coles model aligns closely with Paddy Power’s prices on the 
 ---
 
 ### 📋 Note on model parameters
-A time-decay factor was intentionally omitted from this run. Because the 2026 League of Ireland season only kicked off in February – with just 101 of the 180 total games played to date—the sample size is fresh enough that artificially discounting early-season data would introduce unnecessary noise rather than predictive signal.
+A time-decay factor was intentionally omitted from this run. Because the 2026 League of Ireland season only kicked off in February – with just 101 of the 180 total games played to date — the sample size is fresh enough that artificially discounting early-season data would introduce unnecessary noise rather than predictive signal.
