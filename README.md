@@ -26,7 +26,7 @@ The Dixon-Coles matrix inflates the probabilities of low-scoring outcomes such a
 
 Based on the probabilities derived from the Dixon-Coles model, Bohemians are the favourites to win. However, a comparison with the market reveals significant bookmaker overround.
 
-| Outcome | Fair odds (model) | Implied Probability (model) | Paddy Power Odds | Implied Probability (market) |
+| Outcome | Fair odds (model) | Implied probability (model) | Paddy Power odds | Implied probability (market) |
 | :--- | :---: | :---: | :---: | :---: |
 | **Bohemians Win** | 2.07 | 48.31% | 1.80 | 55.56% |
 | **Dundalk Win** | 3.83 | 26.11% | 3.70 | 27.03% |
