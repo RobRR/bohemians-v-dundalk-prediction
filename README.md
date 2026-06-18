@@ -14,7 +14,7 @@ Because a single goal makes up such a huge part of the final score, one lucky or
 ---
 
 ### Model mechanics & visuals
-*The accompanying chart shows the respective goal distributions for both sides and the Dixon-Coles correct score matrix.* 
+*The accompanying chart shows the respective goal distributions for both sides and the Dixon-Coles correct score matrix:* 
 
 ![Bohemians vs Dundalk Prediction](bohs_dundalk_prediction_2026.png)
 
