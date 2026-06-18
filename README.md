@@ -26,7 +26,7 @@ A baseline independent Poisson model struggles with low-scoring football matches
 * 📉 **Deflates 1-0 and 0-1:** Corrects the standard Poisson model's tendency to overstate narrow, single-goal victories.
 
 
-📋 Note *This fix only changes low-scoring games. If either team scores two or more goals, the score is not affected.*
+*This fix only changes low-scoring games. If either team scores two or more goals, the score is not affected.*
 
 ---
 
