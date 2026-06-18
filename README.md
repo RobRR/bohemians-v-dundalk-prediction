@@ -18,7 +18,15 @@ Because a single goal makes up such a huge part of the final score, one lucky or
 
 ![Bohemians vs Dundalk Prediction](bohs_dundalk_prediction_2026.png)
 
-The Dixon-Coles matrix inflates the probabilities of low-scoring outcomes such as 0-0 and 1-1, which happen more often than a standard Poisson regression model typically predicts. Conversely, it deflates 1-0 and 0-1 scorelines, which a plain-vanilla Poisson generally overstates.
+## Overcoming the Independence Limitation
+
+A baseline independent Poisson model struggles with low-scoring football matches because it assumes team scores are entirely independent. To fix this, a Dixon-Coles parameter ($\rho$) adjusts the lowest scorelines:
+
+* 📈 **Inflates 0-0 and 1-1:** Accounts for the real-world tendency of low-scoring matches to end in draws more often than pure randomness predicts.
+* 📉 **Deflates 1-0 and 0-1:** Corrects the standard Poisson model's tendency to overstate narrow, single-goal victories.
+
+> [!NOTE]
+> This adjustment strictly targets these low-scoring bounds, leaving scorelines where either team scores two or more goals unaffected.
 
 ---
 
