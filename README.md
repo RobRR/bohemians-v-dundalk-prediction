@@ -42,7 +42,7 @@ Based on the probabilities derived from the Dixon-Coles model, Bohemians are the
 | **Total book** | — | **100%** | — | **109.62%** |
 
 #### Market takeaway
-Paddy Power’s total book stands at 109.62%, meaning they have built a sizeable overround of 9.62% into this specific market. Efficiently-priced markets with heavy overrounds are mathematically unbeatable over the long term.
+Paddy Power’s total book stands at 109.62%, meaning they have built a sizeable overround of 9.62% into this specific market. Efficiently-priced markets with heavy overrounds are mathematically unbeatable over the long term. Consequently, there is no positive expected value (+EV) in backing Bohemians.
 
 ---
 
