@@ -6,7 +6,8 @@ Interestingly, the Dixon-Coles model predicts another 1-1 draw when the sides re
 
 ---
 
-**Key Insight:** Even the most likely outcome (11.7%) is not that likely. The Dixon-Coles model treats goal scoring as a random process governed by a Poisson distribution, adjusted for team strengths. In a low-scoring sport like football, a single goal can define the outcome of the game, as matches average only two to three goals in total.
+### Key insight### 
+Even the most likely outcome (11.7%) is not that likely. The Dixon-Coles model treats goal scoring as a random process governed by a Poisson distribution, adjusted for team strengths. In a low-scoring sport like football, a single goal can define the outcome of the game, as matches average only two to three goals in total.
 
 Because a single goal makes up such a huge part of the final score, one lucky or unlucky moment can completely change who wins. This makes football incredibly unpredictable. The model mathematically respects this variance by heavily spreading out its probabilities – hence the most likely outcome not being that likely at all. 
 
@@ -25,14 +26,14 @@ The Dixon-Coles matrix inflates the probabilities of low-scoring outcomes such a
 
 Based on the probabilities derived from the Dixon-Coles model, Bohemians are the favourites to win. However, a comparison with the market reveals significant bookmaker overround.
 
-| Outcome | Fair Odds (Model) | Implied Prob. (Model) | Paddy Power Odds | Implied Prob. (Market) |
+| Outcome | Fair odds (model) | Implied Probability (model) | Paddy Power Odds | Implied Probability (market) |
 | :--- | :---: | :---: | :---: | :---: |
 | **Bohemians Win** | 2.07 | 48.31% | 1.80 | 55.56% |
 | **Dundalk Win** | 3.83 | 26.11% | 3.70 | 27.03% |
 | **Draw** | 3.93 | 25.45% | 3.70 | 27.03% |
 | **Total Book** | — | **100.00%** | — | **109.62%** |
 
-#### Market Takeaway
+#### Market takeaway
 Paddy Power’s total book stands at 109.62%, meaning they have built a sizeable overround (vig) of 9.62% into this specific market. 
 
 Because the Dixon-Coles model aligns closely with Paddy Power’s prices on the draw and Dundalk—while Paddy Power heavily overstates Bohemians’ chances—our calculated percentages appear to be absorbed by that massive 9.62% house edge. Efficiently-priced markets with heavy overrounds are mathematically unbeatable over the long term.
