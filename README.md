@@ -36,10 +36,10 @@ Based on the probabilities derived from the Dixon-Coles model, Bohemians are the
 
 | Outcome | Fair odds (model) | Implied probability (model) | Paddy Power odds | Implied probability (market) |
 | :--- | :---: | :---: | :---: | :---: |
-| **Bohemians Win** | 2.07 | 48.31% | 1.80 | 55.56% |
-| **Dundalk Win** | 3.83 | 26.11% | 3.70 | 27.03% |
+| **Bohemians win** | 2.07 | 48.31% | 1.80 | 55.56% |
+| **Dundalk win** | 3.83 | 26.11% | 3.70 | 27.03% |
 | **Draw** | 3.93 | 25.45% | 3.70 | 27.03% |
-| **Total Book** | — | **100.00%** | — | **109.62%** |
+| **Total book** | — | **100.00%** | — | **109.62%** |
 
 #### Market takeaway
 Paddy Power’s total book stands at 109.62%, meaning they have built a sizeable overround (vig) of 9.62% into this specific market. 
