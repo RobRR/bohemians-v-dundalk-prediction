@@ -1,8 +1,8 @@
 # Match preview: Bohemians v Dundalk
 
-When Bohemians and Dundalk last met at Dalymount Park in the league (Friday, 20 March 2026), the game ended in a 1-1 draw. 
+When Bohemians and Dundalk last met at Dalymount Park in the League of Ireland's Premier Division on Friday, 20 March 2026, the game ended in a 1-1 draw. 
 
-Interestingly, the Dixon-Coles model predicts another 1-1 draw when the sides renew acquaintances at the Phibsborough venue on Friday, 19 June 2026 (7.45pm) in the League of Ireland’s Premier Division.
+Interestingly, the Dixon-Coles model predicts another 1-1 draw when the sides renew acquaintances at the Phibsborough venue on Friday, 19 June 2026 (7.45pm) in the LOI's top flight.
 
 ---
 
