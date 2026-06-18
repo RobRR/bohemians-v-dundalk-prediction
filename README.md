@@ -4,7 +4,7 @@ When Bohemians and Dundalk last met at Dalymount Park in the league (20 March 20
 
 Interestingly, our Dixon-Coles model predicts another 1-1 draw when the sides renew acquaintances at the Phibsborough venue on Friday, 19 June 2026 (7.45pm) in the League of Ireland’s Premier Division.
 
-> **Key Insight:** Even the most likely outcome (11.7%) is not that likely. The Dixon-Coles model treats goal scoring as a random process governed by a Poisson distribution, adjusted for team strengths. In a low-scoring sport like football, a single goal can define the outcome of the game, as matches average only two to three goals in total.
+**Key Insight:** Even the most likely outcome (11.7%) is not that likely. The Dixon-Coles model treats goal scoring as a random process governed by a Poisson distribution, adjusted for team strengths. In a low-scoring sport like football, a single goal can define the outcome of the game, as matches average only two to three goals in total.
 
 Because a single goal makes up such a huge part of the final score, one lucky or unlucky moment can completely change who wins. This makes football incredibly unpredictable. The model mathematically respects this variance by heavily spreading out its probabilities—hence the most likely outcome not being that likely at all. 
 
@@ -13,7 +13,7 @@ Because a single goal makes up such a huge part of the final score, one lucky or
 ### Model mechanics & visuals
 *The accompanying chart shows the respective goal distributions for both sides and the Dixon-Coles correct score matrix.* 
 
-
+![Bohemians vs Dundalk Prediction](bohs_dundalk_prediction_2026.png)
 
 The Dixon-Coles matrix inflates the probabilities of low-scoring outcomes such as 0-0 and 1-1, which happen more often than a standard Poisson regression model typically predicts. Conversely, it deflates 1-0 and 0-1 scorelines, which a plain-vanilla Poisson generally overstates.
 
