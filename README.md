@@ -23,7 +23,7 @@ The Dixon-Coles matrix inflates the probabilities of low-scoring outcomes such a
 
 ### Odds & market probability analysis
 
-Based on the probabilities derived from the Dixon-Coles model, **Bohemians are the favourites to win**. However, a comparison with the market reveals significant bookmaker overround.
+Based on the probabilities derived from the Dixon-Coles model, Bohemians are the favourites to win. However, a comparison with the market reveals significant bookmaker overround.
 
 | Outcome | Fair Odds (Model) | Implied Prob. (Model) | Paddy Power Odds | Implied Prob. (Market) |
 | :--- | :---: | :---: | :---: | :---: |
