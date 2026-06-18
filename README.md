@@ -46,7 +46,7 @@ Based on the probabilities derived from the Dixon-Coles model, Bohemians are the
 #### Market takeaway
 Paddy Power’s total book stands at 109.62%, meaning they have built a sizeable overround (vig) of 9.62% into this specific market. 
 
-Because the Dixon-Coles model aligns closely with Paddy Power’s prices on the draw and Dundalk – while Paddy Power heavily overstates Bohemians’ chances – our calculated percentages appear to be absorbed by that massive 9.62% house edge. Efficiently-priced markets with heavy overrounds are mathematically unbeatable over the long term.
+Because the Dixon-Coles model aligns closely with Paddy Power’s prices on the draw and Dundalk – while Paddy Power overstates Bohemians’ chances – our calculated percentages appear to be absorbed by that massive 9.62% house edge. Efficiently-priced markets with heavy overrounds are mathematically unbeatable over the long term.
 
 ---
 
