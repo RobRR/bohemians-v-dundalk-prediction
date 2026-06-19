@@ -9,7 +9,7 @@ Interestingly, the Dixon-Coles model predicts another 1-1 draw as being the most
 ### Key insight ### 
 Even the most likely outcome (11.7%) is not that likely. The Dixon-Coles model treats goal scoring as a random process governed by a Poisson distribution, adjusted for team strengths. In a low-scoring sport like football, a single goal can define the outcome of the game, as matches average only two to three goals in total.
 
-Because a single goal makes up such a huge part of the final score, one lucky or unlucky moment can completely change who wins. This makes football incredibly unpredictable. The model mathematically reflects this variance by spreading out its probabilities, meaning the most likely outcome still has a low chance of occurring.
+Because a single goal makes up such a huge part of the final score, one lucky or unlucky moment can completely change who wins. This makes football incredibly unpredictable. The model mathematically reflects this variance in scorelines by spreading out its probabilities, meaning even the most likely outcome still has a low chance of occurring.
 
 ---
 
