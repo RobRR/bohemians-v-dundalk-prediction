@@ -1,6 +1,6 @@
 # Predictive football modelling: Bohemians v Dundalk
 
-### 🏟️ Match preview & form context
+### 🏟️ Match preview and form guide
 
 When Bohemians and Dundalk last met at Dalymount Park in the League of Ireland's Premier Division on Friday, 20 March 2026, the game ended in a 1-1 draw. 
 
@@ -15,7 +15,7 @@ Because a single goal makes up such a huge part of the final score, one lucky or
 
 ---
 
-### Model mechanics & visuals
+### Model mechanics and visuals
 The accompanying chart shows the respective goal distributions for both sides and the Dixon-Coles correct score matrix:
 
 ![Bohemians vs Dundalk Prediction](bohs_dundalk_prediction_2026.png)
@@ -32,7 +32,7 @@ A baseline independent Poisson model struggles with low-scoring football matches
 
 ---
 
-### Odds & market probability analysis
+### Odds and market probability analysis
 
 Based on the probabilities derived from the Dixon-Coles model, Bohemians are the favourites to win. However, a comparison with the market reveals significant bookmaker overround.
 
