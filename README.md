@@ -1,4 +1,4 @@
-# Predictive football modelling: Shamrock Rovers v Derry City
+# Predictive football modelling: Bohemians v Dundalk
 
 ---
 
