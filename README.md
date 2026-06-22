@@ -1,4 +1,4 @@
-# Predictive football modelling: Bohemians v Dundalk
+# Predictive football modelling: Bohemians v Dundalk (Result: 1-2)
 
 ### 🏟️ Match preview and form guide
 
