@@ -34,7 +34,7 @@ A baseline independent Poisson model struggles with low-scoring football matches
 
 ### Odds and market probability analysis
 
-Based on the probabilities derived from the Dixon-Coles model, Bohemians are the favourites to win. However, a comparison with the market reveals significant bookmaker overround.
+Based on the probabilities derived from the Dixon-Coles model, Bohemians are the favourites to win. However, a comparison with the market reveals significant bookmaker overround (the sum of the probabilities).
 
 | Outcome | Fair odds (model) | Implied probability (model) | Paddy Power odds | Implied probability (market) |
 | :--- | :---: | :---: | :---: | :---: |
