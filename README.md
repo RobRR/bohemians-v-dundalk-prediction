@@ -44,9 +44,9 @@ Based on the probabilities derived from the Dixon-Coles model, Bohemians are the
 | **Total book** | — | **100%** | — | **109.62%** |
 
 #### Market takeaway
-At the time of writing, Paddy Power’s total book stood at 109.62%, meaning they had built a sizeable overround of 9.62% into this specific market. 
+At the time of writing, Paddy Power’s total book stood at 109.62%, meaning they had built a sizeable margin of 9.62% into this specific market. 
 
-Efficiently-priced markets with heavy overrounds are mathematically impossible to beat over the long term. Consequently, there is no positive expected value (+EV) across any of the three 1X2 outcomes. 
+Efficiently priced markets with heavy overrounds are mathematically impossible to beat over the long term. Consequently, there is no positive expected value (+EV) across any of the three 1X2 outcomes. 
 
 For a bet to have +EV, the bookmaker's odds must be higher than the model's fair odds. In this specific scenario, every single market price is lower than the model's calculated fair price, meaning the bookmaker has completely eliminated the value across the entire 1X2 market.
 
